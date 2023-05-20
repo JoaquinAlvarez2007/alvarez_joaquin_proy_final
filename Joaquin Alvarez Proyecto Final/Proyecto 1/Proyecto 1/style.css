@@ -1,0 +1,138 @@
+body {
+   margin:auto;
+   background-image:url("loona.jpg") ;
+   background-repeat:repeat-y ;
+   background-size:2000px 4000px ;
+}
+
+.TITULO{                                 
+   background-image:linear-gradient(to right,#ffff00,#ff0000,#0000ff,#00ffff,#00ff00,#ffff00);
+   text-align:center;
+   font-size:70px ;
+   font-family:'Metal Mania', cursive ;
+}
+
+.SUBTI{
+    background-image:linear-gradient(to right,#ffff00,#00ff00,#00ffff,#0000ff,#ff0000,#ffff00);
+   text-align:center;
+   font-size:50px ;
+   font-family:'Metal Mania', cursive ;
+}
+
+
+img{
+   width:700px ;
+   height:600px ;
+}
+
+.PARTE1{
+  border-radius: 200px;
+  border-right-style:double ;
+  border-left-style:double;
+  border-top-style:ridge;
+  border-bottom-style:ridge ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #ffff00;
+  background-color:#000000 ;
+  font-size:50px;
+  height:1000px;
+  width:800px;
+  color:#ff0000;
+  font-family:'Metal Mania', cursive;
+}
+.PARTE2{
+  border-radius: 200px;
+  border-style:ridge ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #00ff00;
+  background-color:#000000 ;
+  font-size:40px;
+  height:1700px;
+  width:800px;
+  color: #ce00ff;
+  font-family:'Metal Mania', cursive;
+}
+.PARTE3{
+  border-radius: 200px;
+  border-style:groove ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #00ffff;
+  background-color:#000000 ;
+  font-size:40px;
+  height:1300px;
+  width:800px;
+  color: #ffffff;
+  font-family:'Metal Mania', cursive;
+}
+.PARTE4{
+  border-radius: 200px;
+  border-style:dotted ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #ff0000;
+  background-color:#000000 ;
+  font-size:40px;
+  height:8500px;
+  width:800px;
+  color: #ff7300;
+  font-family:'Metal Mania', cursive;
+}
+.PARTE5{
+  border-radius: 200px;
+  border-style:dashed ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #5200ab;
+  background-color:#000000 ;
+  font-size:40px;
+  height:3500px;
+  width:800px;
+  color: #ffff00;
+  font-family:'Metal Mania', cursive;
+}
+.PARTE6{
+  border-radius: 200px;
+  border-right-style:dashed ;
+  border-left-style:dashed ;
+  border-bottom-style:dotted ;
+  border-top-style:dotted ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #ffff00;
+  background-color:#000000 ;
+  font-size:40px;
+  height:7900px;
+  width:800px;
+  color: #00ffff;
+  font-family:'Metal Mania', cursive;
+}
+.PARTE7{
+  border-radius: 200px;
+  border-style:outset ;
+  text-align:center;
+  border-width:70px ;
+  border-color: #ff00f1;
+  background-color:#000000 ;
+  font-size:40px;
+  height:2500px;
+  width:800px;
+  color: #00ff6c;
+  font-family:'Metal Mania', cursive;
+ }
+
+.PARTE8{
+  border-radius: 200px;
+  border-style:double ;
+  text-align:center;
+  border-width:70px ;
+  border-color:#0000ff;
+  background-color:#000000 ;
+  font-size:50px;
+  height:300px;
+  width:800px;
+  color: #3bff00;
+  font-family:'Metal Mania', cursive;
+}
